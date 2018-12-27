@@ -48,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-alisdk-sms.git"
+    "url": "https://github.com/liu927971519/egg-alisdk-sms"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-alisdk-sms#readme",
+  "homepage": "https://github.com/liu927971519/egg-alisdk-sms#readme",
   "author": "",
   "license": "MIT"
 }
